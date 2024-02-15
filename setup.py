@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "dog-cat-Classification-Deep-Learning-Project"
 AUTHOR_USER_NAME = "fanerami"
-SRC_REPO = "cnnClassifier"
+SRC_REPO = "dogCatClassification"
 AUTHOR_EMAIL = "rifm.09@gmail.com"
 
 
